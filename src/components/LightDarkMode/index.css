@@ -1,0 +1,39 @@
+/* Write your CSS here */
+.bgLight {
+  background-color: #000000;
+  padding: 30px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+}
+.bgDark {
+  background-color: #ffffff;
+  padding: 30px;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 50px;
+}
+.headingDark {
+ 
+   color: #000000;
+  font-size: 30px;
+  padding: 15px;
+  margin-top: 20px;
+}
+.headingLight {
+  color: #000000;
+   color: #ffffff;
+  font-size: 30px;
+  padding: 15px;
+  margin-top: 20px;
+}
+.btn {
+  padding: 15px;
+  border-radius: 10px;
+}
